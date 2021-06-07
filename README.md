@@ -1,4 +1,4 @@
-Contributors:
-Ferica Ting
-Yu-lin Chien
-Matthew Morales
+###Contributors:
+*Yu-lin Chien
+*Matthew Morales
+*Ferica Ting
