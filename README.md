@@ -1,7 +1,7 @@
-#Slice The Pie
+# Slice The Pie
+###Contributers/Group Members
 
-###Contributors:
+* Yu-Lin Chien
+* Matthew Morales
+* Ferica Ting
 
-*Yu-lin Chien
-*Matthew Morales
-*Ferica Ting
