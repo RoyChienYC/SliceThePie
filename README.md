@@ -5,3 +5,4 @@
 * Matthew Morales
 * Ferica Ting
 
+* Goal: Application of React
