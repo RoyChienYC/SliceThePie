@@ -1,0 +1,33 @@
+
+.container{
+  display: flex;
+  justify-content: center;  
+    
+}
+.wrapper{
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  margin-right: 0;
+  margin-left: -10px;
+  z-index: 20;
+  padding-bottom: 0%;
+  
+   
+}
+
+.wrapperB{
+  
+  margin-left: -10px;
+  
+  
+ 
+}
+
+svg {
+  display: flex;
+  margin: 0;
+  
+}
+
+

@@ -1,0 +1,14 @@
+
+.revenue-page-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* margin-left: -16px; */
+  
+}
+
+#revenue-title {
+  text-align: center;
+  z-index: 20;
+  font-weight: 900;
+}

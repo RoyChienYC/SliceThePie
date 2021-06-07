@@ -1,0 +1,50 @@
+ 
+.btn {
+  text-align: center;
+  margin-top:-10px;
+}
+
+#next-btn {
+  color: black;
+  background-color: white;
+  border-radius: 50px;
+  border: 0;
+  width: 120px;
+  height: 30px;
+  cursor: pointer;
+  text-align: center;
+
+}
+
+#compare-btn {
+  color: black;
+  background-color: #71A8FF;
+  border-radius: 50px;
+  border: 0;
+  width: 120px;
+  height: 30px;
+  cursor: pointer;
+  text-align: center
+}
+
+#previous-btn {
+  color: white;
+  background-color: #7F8187;
+  border-radius: 50px;
+  border: 0;
+  width: 120px;
+  height: 30px;
+  cursor: pointer;
+  text-align: center
+}
+
+#restart-btn {
+  color: black;
+  background-color: white;
+  border-radius: 50px;
+  border: 0;
+  width: 120px;
+  height: 30px;
+  cursor: pointer;
+  text-align: center
+}

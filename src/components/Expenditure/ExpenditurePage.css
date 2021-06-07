@@ -1,0 +1,12 @@
+
+.expenditure-page-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#expenditure-title {
+  text-align: center;
+  z-index:20;
+}

@@ -1,0 +1,36 @@
+main {
+  text-align: center;
+  vertical-align: center;
+}
+
+
+.revenue-page-container {
+  display: flex;
+  margin: 0 auto;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-content: space-around;
+  flex-wrap: wrap
+}
+
+.page_name{
+  display: flex;
+  justify-content: center;
+  margin-bottom: -20px;
+
+}
+label{
+  margin-left: 32px;
+  margin-right: 34px;
+  font-size: 11px;
+}
+
+
+/* OUR CSS */
+* {
+  background-color: #2E2E2E;
+  color: white;
+  font-weight: bold;
+  font-family: Sans-Serif;
+  margin: 10px;
+}
