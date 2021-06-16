@@ -6,3 +6,5 @@
 * Ferica Ting
 
 * Goal: Application of React
+
+![](Pictures/Mod1.png)
